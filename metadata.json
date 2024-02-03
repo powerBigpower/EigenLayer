@@ -2,6 +2,6 @@
   "name": "EigenLayer",
   "website": "www.example.com",
   "description": "I operate on some data",
-  "logo": "LOGO.png",
+  "logo": "https://eu-central.storage.cloudconvert.com/tasks/67675013-46f8-4bc3-9e57-8c978dfd6c82/LOGO.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240203%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240203T075943Z&X-Amz-Expires=86400&X-Amz-Signature=c76517ec3c9a8a05dfc817a65c0a1a6484b7d45a5f5e760e1e758dee36ce3526&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22LOGO.png%22&response-content-type=image%2Fpng&x-id=GetObject",
   "twitter": "https://twitter.com/Serg04788"
 }
